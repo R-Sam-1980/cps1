@@ -1,0 +1,20 @@
+{
+  "version": "1.5",
+  "default_core_path": "usb:/apps/1941/fbalpha2012_cps1_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 CPS-1)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 3,
+  "left_thumbnail_mode": 2,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "usb:/Games/Arcade (FB Alpha 2012 CPS-1)/1941 - Counter Attack/1941.zip",
+      "label": "1941 - Counter Attack",
+      "core_path": "usb:/apps/1941/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "64E58DC3|crc",
+      "db_name": "R-Sam - CPS1 Arcade.lpl"
+    }
+  ]
+}
