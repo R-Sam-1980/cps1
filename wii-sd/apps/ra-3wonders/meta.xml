@@ -2,7 +2,7 @@
 <app version="1">
   <name>Three Wonders</name>
   <author>RunningSnakes &amp; R-Sam</author>
-  <version>sd</version>
+  <version>SD</version>
   <release_date>2024/08/15</release_date>
   <short_description>Capcom Play System 1 Emulator</short_description>
   <long_description>Three Wonders
@@ -11,11 +11,13 @@
 - Release Date : 1991/07/01
 - Max Players : 2
 
-Wii Channel : sd:/wad/Three Wonders</long_description>
+Wii Channel : sd:/wad/Three Wonders
+Website : https://github.com/R-Sam-1980/cps1</long_description>
   <no_ios_reload/>
   <ahb_access/>
   <arguments>
     <arg>sd:/Games/Arcade (FB Alpha 2012 CPS-1)/Three Wonders</arg>
     <arg>3wonders.zip</arg>
+    <arg>sd:/private/C1MOD/3wonders.cfg</arg>
   </arguments>
 </app>
