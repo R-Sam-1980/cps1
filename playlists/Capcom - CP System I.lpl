@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "X:\\games\\cps1\\1941.zip",
+      "path": "E:\\games\\cps1\\1941.zip",
       "label": "# - 1941 反击战",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\strider.zip",
+      "path": "E:\\games\\cps1\\strider.zip",
       "label": "C - 出击飞龙",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\qtono2j.zip",
+      "path": "E:\\games\\cps1\\qtono2j.zip",
       "label": "C - 城主的野心问答2 全国版",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\punisher.zip",
+      "path": "E:\\games\\cps1\\punisher.zip",
       "label": "C - 惩罚者",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\ghouls.zip",
+      "path": "E:\\games\\cps1\\ghouls.zip",
       "label": "D - 大魔界村",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,7 +49,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\cawing.zip",
+      "path": "E:\\games\\cps1\\cawing.zip",
       "label": "F - 飞空之翼",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -57,7 +57,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\sf2ce.zip",
+      "path": "E:\\games\\cps1\\sf2ce.zip",
       "label": "J - 街头霸王2 冠军版",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -65,7 +65,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\sf2.zip",
+      "path": "E:\\games\\cps1\\sf2.zip",
       "label": "J - 街头霸王2 天下斗士",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -73,7 +73,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\sf2hf.zip",
+      "path": "E:\\games\\cps1\\sf2hf.zip",
       "label": "J - 街头霸王2 究极格斗",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -81,7 +81,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\ffight.zip",
+      "path": "E:\\games\\cps1\\ffight.zip",
       "label": "K - 快打旋风",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -89,7 +89,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\dino.zip",
+      "path": "E:\\games\\cps1\\dino.zip",
       "label": "K - 恐龙快打",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -97,7 +97,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\megaman.zip",
+      "path": "E:\\games\\cps1\\megaman.zip",
       "label": "L - 洛克人1 力量之战",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -105,7 +105,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\qad.zip",
+      "path": "E:\\games\\cps1\\qad.zip",
       "label": "L - 龙之迷题",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -113,7 +113,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\kod.zip",
+      "path": "E:\\games\\cps1\\kod.zip",
       "label": "L - 龙王战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -121,7 +121,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\captcomm.zip",
+      "path": "E:\\games\\cps1\\captcomm.zip",
       "label": "M - 名将",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -129,7 +129,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\nemo.zip",
+      "path": "E:\\games\\cps1\\nemo.zip",
       "label": "M - 梦幻冒险",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -137,7 +137,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\msword.zip",
+      "path": "E:\\games\\cps1\\msword.zip",
       "label": "M - 魔法剑 英雄的幻想",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -145,7 +145,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\pnickj.zip",
+      "path": "E:\\games\\cps1\\pnickj.zip",
       "label": "M - 魔法方块",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -153,7 +153,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\pang3.zip",
+      "path": "E:\\games\\cps1\\pang3.zip",
       "label": "M - 魔鬼气泡3",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -161,7 +161,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\3wonders.zip",
+      "path": "E:\\games\\cps1\\3wonders.zip",
       "label": "Q - 奇迹三世界",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -169,7 +169,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\mtwins.zip",
+      "path": "E:\\games\\cps1\\mtwins.zip",
       "label": "S - 双麒儿",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -177,7 +177,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\forgottn.zip",
+      "path": "E:\\games\\cps1\\forgottn.zip",
       "label": "S - 失落的世界",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -185,7 +185,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\sfzch.zip",
+      "path": "E:\\games\\cps1\\sfzch.zip",
       "label": "S - 少年街霸1",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -193,7 +193,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\slammast.zip",
+      "path": "E:\\games\\cps1\\slammast.zip",
       "label": "S - 摔角霸王1",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -201,7 +201,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\mbombrd.zip",
+      "path": "E:\\games\\cps1\\mbombrd.zip",
       "label": "S - 摔角霸王1 最终之战",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -209,7 +209,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\dynwar.zip",
+      "path": "E:\\games\\cps1\\dynwar.zip",
       "label": "T - 吞食天地1 王朝战争",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -217,7 +217,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\wof.zip",
+      "path": "E:\\games\\cps1\\wof.zip",
       "label": "T - 吞食天地2 赤壁之战",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -225,7 +225,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\willow.zip",
+      "path": "E:\\games\\cps1\\willow.zip",
       "label": "W - 威洛之旅",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -233,7 +233,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\varth.zip",
+      "path": "E:\\games\\cps1\\varth.zip",
       "label": "W - 威虎战机 雷暴行动",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -241,7 +241,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\cworld2j.zip",
+      "path": "E:\\games\\cps1\\cworld2j.zip",
       "label": "W - 问答冒险 卡普空世界2",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -249,7 +249,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\knights.zip",
+      "path": "E:\\games\\cps1\\knights.zip",
       "label": "Y - 圆桌骑士",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -257,7 +257,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\unsquad.zip",
+      "path": "E:\\games\\cps1\\unsquad.zip",
       "label": "Z - 战区88",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -265,7 +265,7 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\mercs.zip",
+      "path": "E:\\games\\cps1\\mercs.zip",
       "label": "Z - 战场之狼2",
       "core_path": "DETECT",
       "core_name": "DETECT",
