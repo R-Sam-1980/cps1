@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
-  <name>Street Fighter 2' CE</name>
+  <name>1941 - Counter Attack</name>
   <author>Libretro &amp; R-Sam</author>
   <version>1.22.2.usb</version>
   <release_date>2025-11-20 10:41</release_date>
   <short_description>Capcom Play System 1 Emulator</short_description>
-  <long_description>Street Fighter II' - Champion Edition
+  <long_description>1941 - Counter Attack
 
 - Developer &amp; Publisher: Capcom
-- Genre: Fighting
-- Release Date: 1992-03-18
+- Genre: Vertically scrolling shooters
+- Release Date: 1990-02-01
 - Max Players: 2
 
 Wii Channel: usb:/wad/cps1
@@ -18,6 +18,6 @@ Website: https://github.com/R-Sam-1980/cps1</long_description>
   <ahb_access/>
   <arguments>
     <arg>usb:/games/cps1</arg>
-    <arg>sf2ce.zip</arg>
+    <arg>1941.zip</arg>
   </arguments>
 </app>

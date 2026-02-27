@@ -10,10 +10,10 @@
 - Developer &amp; Publisher: Capcom
 - Genre: Compilation
 - Release Date: 1991-07-01
-- Players: 2
+- Max Players: 2
 
-Wii Channel : usb:/wad/cps1/3wonders
-Website : https://github.com/R-Sam-1980/cps1</long_description>
+Wii Channel: usb:/wad/cps1
+Website: https://github.com/R-Sam-1980/cps1</long_description>
   <no_ios_reload/>
   <ahb_access/>
   <arguments>
