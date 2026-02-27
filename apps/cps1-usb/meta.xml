@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
-  <name>RetroArch CPS-1</name>
+  <name>Capcom - CP System I</name>
   <author>Libretro &amp; R-Sam</author>
   <version>1.22.2.usb</version>
   <release_date>2025-11-20 10:41</release_date>
@@ -9,8 +9,8 @@
 - Based on a snapshot of the FB Alpha codebase from 2012.
 - Compatible with FB Alpha v0.2.97.29 ROM sets.
 
-Wii Channel : usb:/wad/cps1
-Website : https://github.com/R-Sam-1980/cps1</long_description>
+Wii Channel: usb:/wad/cps1
+Website: https://github.com/R-Sam-1980/cps1</long_description>
   <no_ios_reload/>
   <ahb_access/>
 </app>

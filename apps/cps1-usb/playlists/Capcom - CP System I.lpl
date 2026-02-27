@@ -1,275 +1,107 @@
 {
   "version": "1.5",
-  "default_core_path": "",
-  "default_core_name": "",
+  "default_core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 CPS-1)",
   "label_display_mode": 0,
-  "right_thumbnail_mode": 4,
+  "right_thumbnail_mode": 3,
   "left_thumbnail_mode": 2,
   "thumbnail_match_mode": 0,
   "sort_mode": 1,
   "items": [
     {
-      "path": "X:\\games\\cps1\\1941.zip",
-      "label": "# - 1941 反击战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "usb:/games/cps1/1941.zip",
+      "label": "1941 - Counter Attack",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "64E58DC3|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\strider.zip",
-      "label": "C - 出击飞龙",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "329FB3E2|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\qtono2j.zip",
-      "label": "C - 城主的野心问答2 全国版",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "847A5C2B|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\punisher.zip",
-      "label": "C - 惩罚者",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "2E7981B0|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\ghouls.zip",
-      "label": "D - 大魔界村",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "B5E40BEF|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\cawing.zip",
-      "label": "F - 飞空之翼",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "31B0791C|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\sf2ce.zip",
-      "label": "J - 街头霸王2 冠军版",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "60FF7935|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\sf2.zip",
-      "label": "J - 街头霸王2 天下斗士",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "B62D0BC7|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\sf2hf.zip",
-      "label": "J - 街头霸王2 究极格斗",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "A86F0C6C|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\ffight.zip",
-      "label": "K - 快打旋风",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "E5524363|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\dino.zip",
-      "label": "K - 恐龙快打",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "usb:/games/cps1/dino.zip",
+      "label": "Cadillacs and Dinosaurs",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "5214C514|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\megaman.zip",
-      "label": "L - 洛克人1 力量之战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "779C1CE7|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\qad.zip",
-      "label": "L - 龙之迷题",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "BC181DDF|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\kod.zip",
-      "label": "L - 龙王战士",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "4F51657C|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\captcomm.zip",
-      "label": "M - 名将",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "usb:/games/cps1/captcomm.zip",
+      "label": "Captain Commando",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "903715AE|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\nemo.zip",
-      "label": "M - 梦幻冒险",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "2DE12145|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\msword.zip",
-      "label": "M - 魔法剑 英雄的幻想",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "CF246210|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\pnickj.zip",
-      "label": "M - 魔法方块",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "3A8E9DCB|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\pang3.zip",
-      "label": "M - 魔鬼气泡3",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "48BFD83A|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\3wonders.zip",
-      "label": "Q - 奇迹三世界",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "C1A3CC0C|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\mtwins.zip",
-      "label": "S - 双麒儿",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "37C648BE|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\forgottn.zip",
-      "label": "S - 失落的世界",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "0C6F70CB|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\sfzch.zip",
-      "label": "S - 少年街霸1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "F9A2076F|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\slammast.zip",
-      "label": "S - 摔角霸王1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "26EB81A2|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\mbombrd.zip",
-      "label": "S - 摔角霸王1 最终之战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "7E214FC4|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\dynwar.zip",
-      "label": "T - 吞食天地1 王朝战争",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "usb:/games/cps1/dynwar.zip",
+      "label": "Dynasty Wars",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "13133F73|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "X:\\games\\cps1\\wof.zip",
-      "label": "T - 吞食天地2 赤壁之战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "usb:/games/cps1/ffight.zip",
+      "label": "Final Fight",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "E5524363|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/sf2ce.zip",
+      "label": "Street Fighter II' - Champion Edition",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "60FF7935|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/sf2hf.zip",
+      "label": "Street Fighter II' - Hyper Fighting",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "53620A17|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/sf2.zip",
+      "label": "Street Fighter II - The World Warrior",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "1C1D5E34|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/sfzch.zip",
+      "label": "Street Fighter Zero",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "1F070033|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/punisher.zip",
+      "label": "The Punisher",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "2E7981B0|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/3wonders.zip",
+      "label": "Three Wonders",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "C1A3CC0C|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/wof.zip",
+      "label": "Warriors of Fate",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "DC01687D|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\willow.zip",
-      "label": "W - 威洛之旅",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "890E3C76|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\varth.zip",
-      "label": "W - 威虎战机 雷暴行动",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "B732BB4D|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\cworld2j.zip",
-      "label": "W - 问答冒险 卡普空世界2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "319BF022|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\knights.zip",
-      "label": "Y - 圆桌骑士",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "29BC394F|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\unsquad.zip",
-      "label": "Z - 战区88",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "01ADC184|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
-      "path": "X:\\games\\cps1\\mercs.zip",
-      "label": "Z - 战场之狼2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DD86F423|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]
