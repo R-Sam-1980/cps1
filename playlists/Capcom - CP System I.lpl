@@ -98,7 +98,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps1/megaman.zip",
-      "label": "L - 洛克人 力量之战",
+      "label": "L - 洛克人1 力量之战",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "779C1CE7|crc",
