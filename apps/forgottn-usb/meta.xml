@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Forgotten Worlds</name>
+  <author>Libretro &amp; R-Sam</author>
+  <version>1.22.2.usb</version>
+  <release_date>2025-11-20 10:41</release_date>
+  <short_description>Capcom Play System 1 Emulator</short_description>
+  <long_description>Forgotten Worlds
+
+- Developer &amp; Publisher: Capcom
+- Genre: Shooting / Horizontal
+- Release Date: 1988-07-01
+- Max Players: 2
+
+Wii Channel: usb:/wad/cps1
+Website: https://github.com/R-Sam-1980/cps1</long_description>
+  <no_ios_reload/>
+  <ahb_access/>
+  <arguments>
+    <arg>usb:/games/cps1</arg>
+    <arg>forgottn.zip</arg>
+  </arguments>
+</app>

@@ -17,6 +17,14 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
+      "path": "usb:/games/cps1/cworld2j.zip",
+      "label": "Adventure Quiz - Capcom World 2",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "319BF022|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
       "path": "usb:/games/cps1/dino.zip",
       "label": "Cadillacs and Dinosaurs",
       "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
@@ -30,6 +38,14 @@
       "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "903715AE|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/cawing.zip",
+      "label": "Carrier Air Wing",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "2263066F|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
@@ -49,6 +65,126 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
+      "path": "usb:/games/cps1/forgottn.zip",
+      "label": "Forgotten Worlds",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "B17A1F3A|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/ghouls.zip",
+      "label": "Ghouls'n Ghosts",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "B17B707E|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/knights.zip",
+      "label": "Knights of the Round",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "D4DE8709|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/msword.zip",
+      "label": "Magic Sword - Heroic Fantasy",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "53863E15|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/megaman.zip",
+      "label": "Mega Man - The Power Battle",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "3D3E2825|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/mtwins.zip",
+      "label": "Mega Twins",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "EC9AE478|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/mercs.zip",
+      "label": "Mercs",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "6C8FFF15|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/mbombrd.zip",
+      "label": "Muscle Bomber Duo - Ultimate Team Battle",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "40A4D957|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/nemo.zip",
+      "label": "Nemo",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "DFDC2835|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/pang3.zip",
+      "label": "Pang! 3",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "0F5E7DB0|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/pnickj.zip",
+      "label": "Pnickies",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "31CA1775|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/qad.zip",
+      "label": "Quiz & Dragons",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "EF803B76|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/qtono2j.zip",
+      "label": "Quiz Tonosama no Yabou 2 - Zenkoku-ban",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "0CF68F55|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/slammast.zip",
+      "label": "Saturday Night Slam Masters",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "E1FA5750|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/sf2.zip",
+      "label": "Street Fighter II - The World Warrior",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "1C1D5E34|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
       "path": "usb:/games/cps1/sf2ce.zip",
       "label": "Street Fighter II' - Champion Edition",
       "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
@@ -65,19 +201,27 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "usb:/games/cps1/sf2.zip",
-      "label": "Street Fighter II - The World Warrior",
-      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
-      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
-      "crc32": "1C1D5E34|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
       "path": "usb:/games/cps1/sfzch.zip",
       "label": "Street Fighter Zero",
       "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "1F070033|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/strider.zip",
+      "label": "Strider",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "0580B723|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/kod.zip",
+      "label": "The King of Dragons",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "DCFF55C9|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
@@ -97,11 +241,35 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
+      "path": "usb:/games/cps1/unsquad.zip",
+      "label": "U.N. Squadron",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "E061C435|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/varth.zip",
+      "label": "Varth - Operation Thunderstorm",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "7DE28073|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
       "path": "usb:/games/cps1/wof.zip",
       "label": "Warriors of Fate",
       "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
       "crc32": "DC01687D|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "usb:/games/cps1/willow.zip",
+      "label": "Willow",
+      "core_path": "usb:/apps/cps1-usb/fbalpha2012_cps1_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-1)",
+      "crc32": "C8FE2C47|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]
