@@ -13,7 +13,7 @@
       "label": "Carrier Air Wing",
       "core_path": "usb:/apps/cawing-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
-      "crc32": "2263066F|crc",
+      "crc32": "31B0791C|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]

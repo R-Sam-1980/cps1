@@ -13,7 +13,7 @@
       "label": "Strider",
       "core_path": "usb:/apps/strider-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
-      "crc32": "0580B723|crc",
+      "crc32": "329FB3E2|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]

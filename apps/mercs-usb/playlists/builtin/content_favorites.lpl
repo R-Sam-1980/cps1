@@ -13,7 +13,7 @@
       "label": "Mercs",
       "core_path": "usb:/apps/mercs-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
-      "crc32": "6C8FFF15|crc",
+      "crc32": "DD86F423|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]
