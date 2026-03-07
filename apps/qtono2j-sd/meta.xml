@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Quiz Tonosama no Yabou 2</name>
+  <author>Libretro &amp; R-Sam</author>
+  <version>1.22.2.sd</version>
+  <release_date>2025-11-20 10:41</release_date>
+  <short_description>Capcom Play System 1 Emulator</short_description>
+  <long_description>Quiz Tonosama no Yabou 2 - Zenkoku-ban
+
+- Developer &amp; Publisher: Capcom
+- Genre: Quiz / Japanese
+- Release Date: 1995
+- Max Players: 2
+
+Wii Channel: sd:/wad/cps1
+Website: https://github.com/R-Sam-1980/cps1</long_description>
+  <no_ios_reload/>
+  <ahb_access/>
+  <arguments>
+    <arg>sd:/games/cps1</arg>
+    <arg>qtono2j.zip</arg>
+  </arguments>
+</app>
