@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/qtono2j.zip",
+      "path": "usb:/games/fba/cps1/qtono2j.zip",
       "label": "Quiz Tonosama no Yabou 2 - Zenkoku-ban",
       "core_path": "usb:/apps/qtono2j-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

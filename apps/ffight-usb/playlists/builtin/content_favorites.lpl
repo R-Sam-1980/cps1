@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/ffight.zip",
+      "path": "usb:/games/fba/cps1/ffight.zip",
       "label": "Final Fight",
       "core_path": "usb:/apps/ffight-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

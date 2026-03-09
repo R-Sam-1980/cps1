@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/msword.zip",
+      "path": "usb:/games/fba/cps1/msword.zip",
       "label": "Magic Sword - Heroic Fantasy",
       "core_path": "usb:/apps/msword-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

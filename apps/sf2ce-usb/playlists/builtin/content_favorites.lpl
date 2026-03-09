@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/sf2ce.zip",
+      "path": "usb:/games/fba/cps1/sf2ce.zip",
       "label": "Street Fighter II' - Champion Edition",
       "core_path": "usb:/apps/sf2ce-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

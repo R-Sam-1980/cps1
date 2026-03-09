@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/pang3.zip",
+      "path": "usb:/games/fba/cps1/pang3.zip",
       "label": "Pang! 3",
       "core_path": "usb:/apps/pang3-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

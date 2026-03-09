@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps1/dino.zip",
+      "path": "usb:/games/fba/cps1/dino.zip",
       "label": "Cadillacs and Dinosaurs",
       "core_path": "usb:/apps/dino-usb/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
