@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps1/cworld2j.zip",
+      "path": "sd:/games/fba/cps1/cworld2j.zip",
       "label": "Adventure Quiz - Capcom World 2",
       "core_path": "sd:/apps/cworld2j-sd/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

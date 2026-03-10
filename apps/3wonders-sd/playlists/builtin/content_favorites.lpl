@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps1/3wonders.zip",
+      "path": "sd:/games/fba/cps1/3wonders.zip",
       "label": "Three Wonders",
       "core_path": "sd:/apps/3wonders-sd/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

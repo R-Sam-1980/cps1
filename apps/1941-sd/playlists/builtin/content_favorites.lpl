@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps1/1941.zip",
+      "path": "sd:/games/fba/cps1/1941.zip",
       "label": "1941 - Counter Attack",
       "core_path": "sd:/apps/1941-sd/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",

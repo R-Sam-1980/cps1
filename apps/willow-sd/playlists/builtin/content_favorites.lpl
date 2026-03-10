@@ -9,11 +9,11 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps1/willow.zip",
+      "path": "sd:/games/fba/cps1/willow.zip",
       "label": "Willow",
       "core_path": "sd:/apps/willow-sd/fbalpha2012_cps1_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-1)",
-      "crc32": "890E3C76|crc",
+      "crc32": "933DD83A|crc",
       "db_name": "Capcom - CP System I.lpl"
     }
   ]
