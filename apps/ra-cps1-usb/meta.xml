@@ -5,10 +5,10 @@
   <version>usb</version>
   <release_date>2022-05-08 07:06</release_date>
   <short_description>Capcom Play System 1 Emulator</short_description>
-  <long_description>- Mod By RunningSnakes.
-- Emulator for CPS-1 games based on RA-SS Hexaeco.
-- Based on a snapshot of the FB Alpha codebase from 2012.
-- Compatible with FB Alpha v0.2.97.29 ROM sets.
+  <long_description>- Mod By RunningSnakes
+- Emulator for CPS-1 games based on RA-SS Hexaeco
+- Based on a snapshot of the FB Alpha codebase from 2012
+- Compatible with FB Alpha v0.2.97.29 ROM sets
 
 Wii Channel: usb:/wad/cps1
 Website: https://github.com/R-Sam-1980/cps1</long_description>

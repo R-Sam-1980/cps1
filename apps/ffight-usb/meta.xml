@@ -14,8 +14,8 @@
 
 Wii Channel: usb:/wad/cps1
 Website: https://github.com/R-Sam-1980/cps1</long_description>
-  <no_ios_reload/>
-  <ahb_access/>
+  <no_ios_reload />
+  <ahb_access />
   <arguments>
     <arg>usb:/games/fba/cps1</arg>
     <arg>ffight.zip</arg>
