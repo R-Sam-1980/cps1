@@ -3,7 +3,7 @@
   <name>Quiz Tonosama no Yabou 2</name>
   <author>SuperrSonic &amp; R-Sam</author>
   <version>sd</version>
-  <release_date>2022-05-08 07:06</release_date>
+  <release_date>202205080706</release_date>
   <short_description>Capcom Play System 1 Emulator</short_description>
   <long_description>Quiz Tonosama no Yabou 2 - Zenkoku-ban
 
@@ -14,7 +14,6 @@
 
 Wii Channel: sd:/wad/cps1
 Website: https://github.com/R-Sam-1980/cps1</long_description>
-  <no_ios_reload/>
   <ahb_access/>
   <arguments>
     <arg>sd:/arcade/fba/cps1</arg>
