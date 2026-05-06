@@ -1,9 +1,11 @@
-# Windows 版 RetroArch 使用的 CPS1 街机游戏资源
+# XBOX 版 RetroArch 使用的 CPS1 街机游戏资源
+
+基于 Windows 分支
 
 
 ## Capcom - CP System I.lpl
 
-游戏目录：X:\\arcade\\cps1
+游戏目录：E:\\arcade\\cps1
 
 
 ## 列表图标
