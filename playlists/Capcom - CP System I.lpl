@@ -1,7 +1,7 @@
 {
   "version": "1.5",
-  "default_core_path": "",
-  "default_core_name": "",
+  "default_core_path": "DETECT",
+  "default_core_name": "DETECT",
   "label_display_mode": 0,
   "right_thumbnail_mode": 4,
   "left_thumbnail_mode": 2,
@@ -25,19 +25,19 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps1/qtono2j.zip",
-      "label": "C - 城主的野心问答2 全国版",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "847A5C2B|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
       "path": "/storage/emulated/0/arcade/cps1/punisher.zip",
       "label": "C - 惩罚者",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "2E7981B0|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps1/cawing.zip",
+      "label": "C - 雌虎战机",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31B0791C|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
@@ -49,16 +49,8 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps1/cawing.zip",
-      "label": "F - 飞空之翼",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "31B0791C|crc",
-      "db_name": "Capcom - CP System I.lpl"
-    },
-    {
       "path": "/storage/emulated/0/arcade/cps1/sf2ce.zip",
-      "label": "J - 街头霸王2 冠军版",
+      "label": "J - 街头霸王2 四大天王",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "60FF7935|crc",
@@ -74,7 +66,7 @@
     },
     {
       "path": "/storage/emulated/0/arcade/cps1/sf2hf.zip",
-      "label": "J - 街头霸王2 究极格斗",
+      "label": "J - 街头霸王2 战斗宣言",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "A86F0C6C|crc",
@@ -118,6 +110,14 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "4F51657C|crc",
+      "db_name": "Capcom - CP System I.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps1/cworld2j.zip",
+      "label": "M - 冒险问答 卡普空世界2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "319BF022|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
@@ -241,11 +241,11 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps1/cworld2j.zip",
-      "label": "W - 问答冒险 卡普空世界2",
+      "path": "/storage/emulated/0/arcade/cps1/qtono2j.zip",
+      "label": "W - 问答信长之野望2 全国版",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "319BF022|crc",
+      "crc32": "847A5C2B|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
