@@ -177,11 +177,11 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps1/forgottn.zip",
+      "path": "/storage/emulated/0/arcade/cps1/forgottnu.zip",
       "label": "S - 失落的世界",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "0C6F70CB|crc",
+      "crc32": "916345E9|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
@@ -225,11 +225,11 @@
       "db_name": "Capcom - CP System I.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps1/willow.zip",
+      "path": "/storage/emulated/0/arcade/cps1/willowj.zip",
       "label": "W - 威洛之旅",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "890E3C76|crc",
+      "crc32": "573A7059|crc",
       "db_name": "Capcom - CP System I.lpl"
     },
     {
