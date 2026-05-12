@@ -90,7 +90,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps1/megaman.zip",
-      "label": "L - 洛克人1 力量之战",
+      "label": "L - 洛克人1 力量之战 (CPS1版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "779C1CE7|crc",
