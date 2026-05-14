@@ -1,6 +1,6 @@
 # CPS1 街机游戏 App 列表
 
-1G1R1App 是 1 Game 1 ROM 1 App 的缩写，意思是一个游戏对应一个最佳版本的 ROM 文件，同时还有一个独立的 App 专门负责加载这个游戏的 ROM 文件。
+1G1R1App 是 1 Game 1 ROM 1 App 的缩写，意思是一个游戏只选取一个版本的 ROM 文件，同时还有一个独立的 App 专门负责加载这个游戏的 ROM 文件。
 
 以下是基于 Wii 版 RetroArch 的 fbalpha2012_cps1_libretro_wii.dol 核心制作的，CPS1 街机游戏 App 列表：
 
