@@ -45,4 +45,4 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-1) 核心来加载 CPS1 �
 序号 | ROM 文件 | 英文名 | 中文名 | 问题描述
 --- | --- | --- | --- | ---
 1 | cawing.zip | Carrier Air Wing | C - 雌虎战机 | 第一关从云层下降到海面不久，后方出<br>现的敌机会呈现黑色，游戏随后卡死
-2 | forgottn.zip | Forgotten Worlds | S - 失落的世界 | 开始键无效
+2 | forgottn.zip | Forgotten Worlds | S - 失落的世界 | 部分按键无效
