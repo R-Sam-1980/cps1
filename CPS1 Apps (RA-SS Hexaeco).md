@@ -24,13 +24,13 @@
 14 | Pang! 3 | ![](./apps/sd-pang3-ss/icon.png) | M - 魔鬼气泡3 | pang3.zip
 15 | Pnickies | ![](./apps/sd-pnickj-ss/icon.png) | M - 魔法方块 | pnickj.zip
 16 | Quiz & Dragons | ![](./apps/sd-qad-ss/icon.png) | L - 龙之迷题 | qad.zip
-17 | Quiz Tonosama no Yabou 2 | ![](./apps/sd-qtono2j-ss/icon.png) | W - 问答信长之野望2 全国版 | qtono2j.zip
+17 | Quiz Tonosama no Yabou 2 | ![](./apps/sd-qtono2j-ss/icon.png) | W - 问答 信长之野望2 | qtono2j.zip
 18 | Slam Masters | ![](./apps/sd-slammast-ss/icon.png) | S - 摔角霸王1 | slammast.zip
 19 | Slam Masters - UTB | ![](./apps/sd-mbombrd-ss/icon.png) | S - 摔角霸王1 最终之战 | mbombrd.zip
 20 | Street Fighter 2 | ![](./apps/sd-sf2-ss/icon.png) | J - 街头霸王2 天下斗士 | sf2.zip
 21 | Street Fighter 2' CE | ![](./apps/sd-sf2ce-ss/icon.png) | J - 街头霸王2 四大天王 | sf2ce.zip
 22 | Street Fighter 2' HF | ![](./apps/sd-sf2hf-ss/icon.png) | J - 街头霸王2 战斗宣言 | sf2hf.zip
-23 | Street Fighter Zero | ![](./apps/sd-sfzch-ss/icon.png) | S - 少年街霸1 | sfzch.zip
+23 | Street Fighter Zero | ![](./apps/sd-sfzch-ss/icon.png) | S - 少年街霸1 (CPS1版) | sfzch.zip
 24 | Strider | ![](./apps/sd-strider-ss/icon.png) | C - 出击飞龙 | strider.zip
 25 | The King of Dragons | ![](./apps/sd-kod-ss/icon.png) | L - 龙王战士 | kod.zip
 26 | The Punisher | ![](./apps/sd-punisher-ss/icon.png) | C - 惩罚者 | punisher.zip
@@ -65,14 +65,14 @@
 18 | M - 魔鬼气泡3 | ![](./apps/sd-pang3-ss/icon.png) | Pang! 3 | pang3.zip
 19 | Q - 奇迹三世界 | ![](./apps/sd-3wonders-ss/icon.png) | Three Wonders | 3wonders.zip
 20 | S - 双麒儿 | ![](./apps/sd-mtwins-ss/icon.png) | Mega Twins | mtwins.zip
-21 | S - 少年街霸1 | ![](./apps/sd-sfzch-ss/icon.png) | Street Fighter Zero | sfzch.zip
+21 | S - 少年街霸1 (CPS1版) | ![](./apps/sd-sfzch-ss/icon.png) | Street Fighter Zero | sfzch.zip
 22 | S - 摔角霸王1 | ![](./apps/sd-slammast-ss/icon.png) | Slam Masters | slammast.zip
 23 | S - 摔角霸王1 最终之战 | ![](./apps/sd-mbombrd-ss/icon.png) | Slam Masters - UTB | mbombrd.zip
 24 | T - 吞食天地1 王朝战争 | ![](./apps/sd-dynwar-ss/icon.png) | Dynasty Wars | dynwar.zip
 25 | T - 吞食天地2 赤壁之战 | ![](./apps/sd-wof-ss/icon.png) | Warriors of Fate | wof.zip
 26 | W - 威洛之旅 | ![](./apps/sd-willow-ss/icon.png) | Willow | willow.zip
 27 | W - 威虎战机 雷暴行动 | ![](./apps/sd-varth-ss/icon.png) | Varth | varth.zip
-28 | W - 问答信长之野望2 全国版 | ![](./apps/sd-qtono2j-ss/icon.png) | Quiz Tonosama no Yabou 2 | qtono2j.zip
+28 | W - 问答 信长之野望2 | ![](./apps/sd-qtono2j-ss/icon.png) | Quiz Tonosama no Yabou 2 | qtono2j.zip
 29 | Y - 圆桌骑士 | ![](./apps/sd-knights-ss/icon.png) | Knights of the Round | knights.zip
 30 | Z - 战区88 | ![](./apps/sd-unsquad-ss/icon.png) | U.N. Squadron | unsquad.zip
 31 | Z - 战场之狼2 | ![](./apps/sd-mercs-ss/icon.png) | Mercs | mercs.zip
