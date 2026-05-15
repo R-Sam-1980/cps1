@@ -90,7 +90,7 @@
     },
     {
       "path": "E:\\arcade\\cps1\\megaman.zip",
-      "label": "L - 洛克人1 力量之战",
+      "label": "L - 洛克人1 力量之战 (CPS1版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "779C1CE7|crc",
@@ -186,7 +186,7 @@
     },
     {
       "path": "E:\\arcade\\cps1\\sfzch.zip",
-      "label": "S - 少年街霸1",
+      "label": "S - 少年街霸1 (CPS1版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "F9A2076F|crc",
@@ -242,7 +242,7 @@
     },
     {
       "path": "E:\\arcade\\cps1\\qtono2j.zip",
-      "label": "W - 问答信长之野望2 全国版",
+      "label": "W - 问答 信长之野望2",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "847A5C2B|crc",
