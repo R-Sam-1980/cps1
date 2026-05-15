@@ -27,11 +27,11 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-1) 核心来加载 CPS1 �
 18 | pnickj.zip | 3A8E9DCB | Pnickies | M - 魔法方块
 19 | punisher.zip | 2E7981B0 | The Punisher | C - 惩罚者
 20 | qad.zip | BC181DDF | Quiz & Dragons | L - 龙之迷题
-21 | qtono2j.zip | 847A5C2B | Quiz Tonosama no Yabou 2 - Zenkoku-ban | W - 问答信长之野望2 全国版
+21 | qtono2j.zip | 847A5C2B | Quiz Tonosama no Yabou 2 - Zenkoku-ban | W - 问答 信长之野望2
 22 | sf2.zip | B62D0BC7 | Street Fighter II - The World Warrior | J - 街头霸王2 天下斗士
 23 | sf2ce.zip | 60FF7935 | Street Fighter II' - Champion Edition | J - 街头霸王2 四大天王
 24 | sf2hf.zip | A86F0C6C | Street Fighter II' - Hyper Fighting | J - 街头霸王2 战斗宣言
-25 | sfzch.zip | F9A2076F | Street Fighter Zero | S - 少年街霸1
+25 | sfzch.zip | F9A2076F | Street Fighter Zero | S - 少年街霸1 (CPS1版)
 26 | slammast.zip | 26EB81A2 | Saturday Night Slam Masters | S - 摔角霸王1
 27 | strider.zip | 329FB3E2 | Strider | C - 出击飞龙
 28 | unsquad.zip | 01ADC184 | U.N. Squadron | Z - 战区88
