@@ -186,7 +186,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps1/sfzch.zip",
-      "label": "S - 少年街霸1",
+      "label": "S - 少年街霸1 (CPS1版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "F9A2076F|crc",
@@ -242,7 +242,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps1/qtono2j.zip",
-      "label": "W - 问答信长之野望2 全国版",
+      "label": "W - 问答 信长之野望2",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "847A5C2B|crc",
