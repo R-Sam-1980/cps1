@@ -36,11 +36,11 @@
 20 | pnickj.zip | 3A8E9DCB | | M - 魔法方块 | 
 21 | punisher.zip | 2E7981B0 | | C - 惩罚者 | 
 22 | qad.zip | BC181DDF | | L - 龙之迷题 | 
-23 | qtono2j.zip | 847A5C2B | | W - 问答信长之野望2 全国版 | 
+23 | qtono2j.zip | 847A5C2B | | W - 问答 信长之野望2 | 
 24 | sf2.zip | B62D0BC7 | | J - 街头霸王2 天下斗士 | 
 25 | sf2ce.zip | 60FF7935 | | J - 街头霸王2 四大天王 | 
 26 | sf2hf.zip | A86F0C6C | | J - 街头霸王2 战斗宣言 | 
-27 | sfzch.zip | F9A2076F | | S - 少年街霸1 | 
+27 | sfzch.zip | F9A2076F | | S - 少年街霸1 (CPS1版) | 降配妥协之作<br>CPS2上的才是正式版 
 28 | slammast.zip | 26EB81A2 | | S - 摔角霸王1 | 
 29 | strider.zip | 329FB3E2 | | C - 出击飞龙 | 
 30 | unsquad.zip | 01ADC184 | | Z - 战区88 | 
