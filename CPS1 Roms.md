@@ -6,7 +6,7 @@
 - Arcade (FinalBurn Neo)
 - Arcade (MAME...) 系列核心
 
-1G1R 是 1 Game 1 ROM 的缩写，意思是一个游戏只选取一个最佳版本的 ROM 文件。
+1G1R 是 one Game one ROM 的缩写，意思是一个游戏只选取一个最佳版本的 ROM 文件。
 
 下面这份 CPS1 街机游戏列表，是根据 FBNeo - Arcade Games.rdb 数据库里 ROM 文件描述，按照 1G1R 的策略收集整理的，当一个游戏有多个版本的 ROM 文件时，筛选规则如下：
 1. 只支持 FinalBurn Neo，不支持 FB Alpha 2012 CPS-1 和 FB Alpha 2012 的 ROM 文件淘汰；
