@@ -8,37 +8,37 @@
 
 序号 | App 名称 | App 图标 | 游戏中文名 | ROM 文件
 --- | --- | --- | --- | ---
-1 | 1941 - Counter Attack | ![](./apps/sd-cps1-1941/icon.png) | # - 1941 反击战 | 1941.zip
-2 | Cadillacs and Dinosaurs | ![](./apps/sd-cps1-dino/icon.png) | K - 恐龙快打 | dino.zip
-3 | Capcom World 2 | ![](./apps/sd-cps1-cworld2j/icon.png) | M - 冒险问答 卡普空世界2 | cworld2j.zip
-4 | Captain Commando | ![](./apps/sd-cps1-captcomm/icon.png) | M - 名将 | captcomm.zip
-5 | Dynasty Wars | ![](./apps/sd-cps1-dynwar/icon.png) | T - 吞食天地1 王朝战争 | dynwar.zip
-6 | Final Fight | ![](./apps/sd-cps1-ffight/icon.png) | K - 快打旋风 | ffight.zip
-7 | Ghouls'n Ghosts | ![](./apps/sd-cps1-ghouls/icon.png) | D - 大魔界村 | ghouls.zip
-8 | Knights of the Round | ![](./apps/sd-cps1-knights/icon.png) | Y - 圆桌骑士 | knights.zip
-9 | Magic Sword | ![](./apps/sd-cps1-msword/icon.png) | M - 魔法剑 英雄的幻想 | msword.zip
-10 | Mega Man | ![](./apps/sd-cps1-megaman/icon.png) | L - 洛克人1 力量之战 (CPS1版) | megaman.zip
-11 | Mega Twins | ![](./apps/sd-cps1-mtwins/icon.png) | S - 双麒儿 | mtwins.zip
-12 | Mercs | ![](./apps/sd-cps1-mercs/icon.png) | Z - 战场之狼2 | mercs.zip
-13 | Nemo | ![](./apps/sd-cps1-nemo/icon.png) | M - 梦幻冒险 | nemo.zip
-14 | Pang! 3 | ![](./apps/sd-cps1-pang3/icon.png) | M - 魔鬼气泡3 | pang3.zip
-15 | Pnickies | ![](./apps/sd-cps1-pnickj/icon.png) | M - 魔法方块 | pnickj.zip
-16 | Quiz & Dragons | ![](./apps/sd-cps1-qad/icon.png) | L - 龙之迷题 | qad.zip
-17 | Quiz Tonosama no Yabou 2 | ![](./apps/sd-cps1-qtono2j/icon.png) | W - 问答 信长之野望2 | qtono2j.zip
-18 | Slam Masters | ![](./apps/sd-cps1-slammast/icon.png) | S - 摔角霸王1 | slammast.zip
-19 | Slam Masters - UTB | ![](./apps/sd-cps1-mbombrd/icon.png) | S - 摔角霸王1 最终之战 | mbombrd.zip
-20 | Street Fighter 2 | ![](./apps/sd-cps1-sf2/icon.png) | J - 街头霸王2 天下斗士 | sf2.zip
-21 | Street Fighter 2' CE | ![](./apps/sd-cps1-sf2ce/icon.png) | J - 街头霸王2 四大天王 | sf2ce.zip
-22 | Street Fighter 2' HF | ![](./apps/sd-cps1-sf2hf/icon.png) | J - 街头霸王2 战斗宣言 | sf2hf.zip
-23 | Street Fighter Zero | ![](./apps/sd-cps1-sfzch/icon.png) | S - 少年街霸1 (CPS1版) | sfzch.zip
-24 | Strider | ![](./apps/sd-cps1-strider/icon.png) | C - 出击飞龙 | strider.zip
-25 | The King of Dragons | ![](./apps/sd-cps1-kod/icon.png) | L - 龙王战士 | kod.zip
-26 | The Punisher | ![](./apps/sd-cps1-punisher/icon.png) | C - 惩罚者 | punisher.zip
-27 | Three Wonders | ![](./apps/sd-cps1-3wonders/icon.png) | Q - 奇迹三世界 | 3wonders.zip
-28 | U.N. Squadron | ![](./apps/sd-cps1-unsquad/icon.png) | Z - 战区88 | unsquad.zip
-29 | Varth | ![](./apps/sd-cps1-varth/icon.png) | W - 威虎战机 雷暴行动 | varth.zip
-30 | Warriors of Fate | ![](./apps/sd-cps1-wof/icon.png) | T - 吞食天地2 赤壁之战 | wof.zip
-31 | Willow | ![](./apps/sd-cps1-willow/icon.png) | W - 威洛之旅 | willow.zip
+1 | 1941 - Counter Attack | ![](./apps/sd-cps1-1941/icon.png) | 1941 反击战 | 1941.zip
+2 | Cadillacs and Dinosaurs | ![](./apps/sd-cps1-dino/icon.png) | 恐龙快打 | dino.zip
+3 | Capcom World 2 | ![](./apps/sd-cps1-cworld2j/icon.png) | 冒险问答 卡普空世界2 | cworld2j.zip
+4 | Captain Commando | ![](./apps/sd-cps1-captcomm/icon.png) | 名将 | captcomm.zip
+5 | Dynasty Wars | ![](./apps/sd-cps1-dynwar/icon.png) | 吞食天地1 王朝战争 | dynwar.zip
+6 | Final Fight | ![](./apps/sd-cps1-ffight/icon.png) | 快打旋风 | ffight.zip
+7 | Ghouls'n Ghosts | ![](./apps/sd-cps1-ghouls/icon.png) | 大魔界村 | ghouls.zip
+8 | Knights of the Round | ![](./apps/sd-cps1-knights/icon.png) | 圆桌骑士 | knights.zip
+9 | Magic Sword | ![](./apps/sd-cps1-msword/icon.png) | 魔法剑 英雄的幻想 | msword.zip
+10 | Mega Man | ![](./apps/sd-cps1-megaman/icon.png) | 洛克人1 力量之战 (CPS1版) | megaman.zip
+11 | Mega Twins | ![](./apps/sd-cps1-mtwins/icon.png) | 双麒儿 | mtwins.zip
+12 | Mercs | ![](./apps/sd-cps1-mercs/icon.png) | 战场之狼2 | mercs.zip
+13 | Nemo | ![](./apps/sd-cps1-nemo/icon.png) | 梦幻冒险 | nemo.zip
+14 | Pang! 3 | ![](./apps/sd-cps1-pang3/icon.png) | 魔鬼气泡3 | pang3.zip
+15 | Pnickies | ![](./apps/sd-cps1-pnickj/icon.png) | 魔法方块 | pnickj.zip
+16 | Quiz & Dragons | ![](./apps/sd-cps1-qad/icon.png) | 龙之迷题 | qad.zip
+17 | Quiz Tonosama no Yabou 2 | ![](./apps/sd-cps1-qtono2j/icon.png) | 问答 信长之野望2 | qtono2j.zip
+18 | Slam Masters | ![](./apps/sd-cps1-slammast/icon.png) | 摔角霸王1 | slammast.zip
+19 | Slam Masters - UTB | ![](./apps/sd-cps1-mbombrd/icon.png) | 摔角霸王1 最终之战 | mbombrd.zip
+20 | Street Fighter 2 | ![](./apps/sd-cps1-sf2/icon.png) | 街头霸王2 天下斗士 | sf2.zip
+21 | Street Fighter 2' CE | ![](./apps/sd-cps1-sf2ce/icon.png) | 街头霸王2 四大天王 | sf2ce.zip
+22 | Street Fighter 2' HF | ![](./apps/sd-cps1-sf2hf/icon.png) | 街头霸王2 战斗宣言 | sf2hf.zip
+23 | Street Fighter Zero | ![](./apps/sd-cps1-sfzch/icon.png) | 少年街霸1 (CPS1版) | sfzch.zip
+24 | Strider | ![](./apps/sd-cps1-strider/icon.png) | 出击飞龙 | strider.zip
+25 | The King of Dragons | ![](./apps/sd-cps1-kod/icon.png) | 龙王战士 | kod.zip
+26 | The Punisher | ![](./apps/sd-cps1-punisher/icon.png) | 惩罚者 | punisher.zip
+27 | Three Wonders | ![](./apps/sd-cps1-3wonders/icon.png) | 奇迹三世界 | 3wonders.zip
+28 | U.N. Squadron | ![](./apps/sd-cps1-unsquad/icon.png) | 战区88 | unsquad.zip
+29 | Varth | ![](./apps/sd-cps1-varth/icon.png) | 威虎战机 雷暴行动 | varth.zip
+30 | Warriors of Fate | ![](./apps/sd-cps1-wof/icon.png) | 吞食天地2 赤壁之战 | wof.zip
+31 | Willow | ![](./apps/sd-cps1-willow/icon.png) | 威洛之旅 | willow.zip
 
 
 ## 按游戏中文名排序
