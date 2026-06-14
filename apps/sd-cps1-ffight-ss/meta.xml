@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Final Fight</name>
+  <author>SuperrSonic &amp; R-Sam</author>
+  <version>SD</version>
+  <release_date>20220508</release_date>
+  <short_description>Capcom Play System 1 Emulator</short_description>
+  <long_description>Final Fight
+
+- Developer &amp; Publisher: Capcom
+- Genre: Beat 'em up
+- Release Date: 1989-11-25
+- Max Players: 2
+
+Website: https://github.com/R-Sam-1980/cps1</long_description>
+  <ahb_access/>
+  <arguments>
+    <arg>sd:/arcade/fba/cps1</arg>
+    <arg>ffight.zip</arg>
+    <arg>sd:/private/C1MOD/ffight.cfg</arg>
+  </arguments>
+</app>
