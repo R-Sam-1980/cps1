@@ -5,8 +5,8 @@
   <version>SD</version>
   <release_date>20220508</release_date>
   <short_description>Capcom Play System 1 Emulator</short_description>
-  <long_description>- Mod By RunningSnakes
-- Emulator for CPS-1 games based on RA-SS Hexaeco
+  <long_description>- Mod By RunningSnakes based on RA-SS Hexaeco
+- Emulator for CPS-1 games
 - Based on a snapshot of the FB Alpha codebase from 2012
 - Compatible with FB Alpha v0.2.97.29 ROM sets
 
