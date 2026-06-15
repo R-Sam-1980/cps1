@@ -33,7 +33,7 @@ Wii 版的 RetroArch 使用以下核心来加载 CPS1 街机游戏：
 22 | sf2.zip | B62D0BC7 | Street Fighter II - The World Warrior | 街头霸王2 天下斗士
 23 | sf2ce.zip | 60FF7935 | Street Fighter II' - Champion Edition | 街头霸王2 四大天王
 24 | sf2hf.zip | A86F0C6C | Street Fighter II' - Hyper Fighting | 街头霸王2 战斗宣言
-25 | sfzch.zip | F9A2076F | Street Fighter Zero | 少年街霸1 (CPS1版)
+25 | sfzch.zip | F9A2076F | Street Fighter Zero | 少年街霸 (CPS1版)
 26 | slammast.zip | 26EB81A2 | Saturday Night Slam Masters | 摔角霸王1
 27 | strider.zip | 329FB3E2 | Strider | 出击飞龙
 28 | unsquad.zip | 01ADC184 | U.N. Squadron | 战区88
