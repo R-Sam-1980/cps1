@@ -41,7 +41,7 @@
 24 | sf2.zip | B62D0BC7 | | 街头霸王2 天下斗士 | 
 25 | sf2ce.zip | 60FF7935 | | 街头霸王2 四大天王 | 
 26 | sf2hf.zip | A86F0C6C | | 街头霸王2 战斗宣言 | 
-27 | sfzch.zip | F9A2076F | | 少年街霸1 (CPS1版) | 降配妥协之作<br>CPS2版才是正式版 
+27 | sfzch.zip | F9A2076F | | 少年街霸 (CPS1版) | 降配妥协之作<br>CPS2上的才是正式版 
 28 | slammast.zip | 26EB81A2 | | 摔角霸王1 | 
 29 | strider.zip | 329FB3E2 | | 出击飞龙 | 
 30 | unsquad.zip | 01ADC184 | | 战区88 | 
