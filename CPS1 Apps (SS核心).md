@@ -36,7 +36,7 @@ RA-SS Hexaeco 使用 Arcade CPS1.dol 核心来加载 CPS1 街机游戏。
 20 | Street Fighter 2 | ![](./apps/sd-cps1-sf2-ss/icon.png) | 街头霸王2 天下斗士 | sf2.zip
 21 | Street Fighter 2' CE | ![](./apps/sd-cps1-sf2ce-ss/icon.png) | 街头霸王2 四大天王 | sf2ce.zip
 22 | Street Fighter 2' HF | ![](./apps/sd-cps1-sf2hf-ss/icon.png) | 街头霸王2 战斗宣言 | sf2hf.zip
-23 | Street Fighter Zero | ![](./apps/sd-cps1-sfzch-ss/icon.png) | 少年街霸1 (CPS1版) | sfzch.zip
+23 | Street Fighter Zero | ![](./apps/sd-cps1-sfzch-ss/icon.png) | 少年街霸 (CPS1版) | sfzch.zip
 24 | Strider | ![](./apps/sd-cps1-strider-ss/icon.png) | 出击飞龙 | strider.zip
 25 | The King of Dragons | ![](./apps/sd-cps1-kod-ss/icon.png) | 龙王战士 | kod.zip
 26 | The Punisher | ![](./apps/sd-cps1-punisher-ss/icon.png) | 惩罚者 | punisher.zip
@@ -71,7 +71,7 @@ RA-SS Hexaeco 使用 Arcade CPS1.dol 核心来加载 CPS1 街机游戏。
 18 | M - 魔鬼气泡3 | ![](./apps/sd-cps1-pang3-ss/icon.png) | Pang! 3 | pang3.zip
 19 | Q - 奇迹三世界 | ![](./apps/sd-cps1-3wonders-ss/icon.png) | Three Wonders | 3wonders.zip
 20 | S - 双麒儿 | ![](./apps/sd-cps1-mtwins-ss/icon.png) | Mega Twins | mtwins.zip
-21 | S - 少年街霸1 (CPS1版) | ![](./apps/sd-cps1-sfzch-ss/icon.png) | Street Fighter Zero | sfzch.zip
+21 | S - 少年街霸 (CPS1版) | ![](./apps/sd-cps1-sfzch-ss/icon.png) | Street Fighter Zero | sfzch.zip
 22 | S - 摔角霸王1 | ![](./apps/sd-cps1-slammast-ss/icon.png) | Slam Masters | slammast.zip
 23 | S - 摔角霸王1 最终之战 | ![](./apps/sd-cps1-mbombrd-ss/icon.png) | Slam Masters - UTB | mbombrd.zip
 24 | T - 吞食天地1 王朝战争 | ![](./apps/sd-cps1-dynwar-ss/icon.png) | Dynasty Wars | dynwar.zip
