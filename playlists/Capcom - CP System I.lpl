@@ -186,7 +186,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps1/sfzch.zip",
-      "label": "S - 少年街霸1 (CPS1版)",
+      "label": "S - 少年街霸 (CPS1版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "F9A2076F|crc",
