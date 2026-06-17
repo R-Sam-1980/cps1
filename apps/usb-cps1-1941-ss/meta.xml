@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>1941 - Counter Attack</name>
+  <author>SuperrSonic &amp; R-Sam</author>
+  <version>USB</version>
+  <release_date>20220508</release_date>
+  <short_description>Capcom Play System 1 Emulator</short_description>
+  <long_description>1941 - Counter Attack
+
+- Developer &amp; Publisher: Capcom
+- Genre: Shooting / Vertical
+- Release Date: 1990-02-01
+- Max Players: 2
+
+Website: https://github.com/R-Sam-1980/cps1</long_description>
+  <ahb_access/>
+  <arguments>
+    <arg>usb:/arcade/fba/cps1</arg>
+    <arg>1941.zip</arg>
+    <arg>usb:/private/C1MOD/1941.cfg</arg>
+  </arguments>
+</app>

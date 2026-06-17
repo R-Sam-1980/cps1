@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>The Punisher</name>
+  <author>SuperrSonic &amp; R-Sam</author>
+  <version>USB</version>
+  <release_date>20220508</release_date>
+  <short_description>Capcom Play System 1 Emulator</short_description>
+  <long_description>The Punisher
+
+- Developer &amp; Publisher: Capcom
+- Genre: Beat 'em up
+- Release Date: 1993-04-22
+- Max Players: 2
+
+Website: https://github.com/R-Sam-1980/cps1</long_description>
+  <ahb_access/>
+  <arguments>
+    <arg>usb:/arcade/fba/cps1</arg>
+    <arg>punisher.zip</arg>
+    <arg>usb:/private/C1MOD/punisher.cfg</arg>
+  </arguments>
+</app>
